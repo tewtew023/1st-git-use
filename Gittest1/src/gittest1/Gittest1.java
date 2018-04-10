@@ -16,7 +16,12 @@ class noob{
         System.out.println("nooooobbbbbbbbbbbbbbbb");
     }
 }
-
+class door{
+    int zzz;
+    public static void bewinw(){
+        System.out.println("Yeahhh!!1");
+    }
+}
 
 
 class Gittest1 {
